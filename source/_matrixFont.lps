@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="x32-Debug"/>
+    <Units Count="24">
+      <Unit0>
+        <Filename Value="_matrixFont.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos Y="33"/>
+        <UsageCount Value="205"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="fm_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="931"/>
+        <CursorPos X="57" Y="942"/>
+        <UsageCount Value="205"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="fm_gen.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fmGen"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="180"/>
+        <CursorPos X="5" Y="198"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="fm_new.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fmNew"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="58" Y="58"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="symbol.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="558"/>
+        <CursorPos Y="630"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="font.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="619"/>
+        <CursorPos X="17" Y="753"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="fm_prop.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fmProp"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="5"/>
+        <CursorPos Y="63"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="fm_confirm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fmConfirm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="14"/>
+        <FoldState Value=" T7DFV T3iC044k"/>
+        <UsageCount Value="204"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="app_ver.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="46" Y="38"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="fm_import.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fmImport"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="53"/>
+        <CursorPos X="21" Y="258"/>
+        <UsageCount Value="207"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="fm_preview.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fmPreview"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="73"/>
+        <CursorPos Y="211"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="fm_sizes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fmSizes"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="22"/>
+        <CursorPos Y="78"/>
+        <FoldState Value=" T7MDc T3iT034P"/>
+        <UsageCount Value="200"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="fm_optimize.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fmOptimize"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos Y="69"/>
+        <FoldState Value=" T7DGa T3iL023 T6iX21("/>
+        <UsageCount Value="200"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="fm_range.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fmRange"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="11"/>
+        <CursorPos Y="45"/>
+        <FoldState Value=" T7DDF T3e023I"/>
+        <UsageCount Value="200"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="fm_about.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fmAbout"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="49" Y="189"/>
+        <FoldState Value=" T7UDh T3if067 T6jc212,"/>
+        <UsageCount Value="200"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="fm_settings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="fmSettings"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="214"/>
+        <FoldState Value=" T7LG}B T3lf083 pjNjf036 T6m9211("/>
+        <UsageCount Value="200"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="help.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="6" Y="10"/>
+        <FoldState Value=" T3I031$"/>
+        <UsageCount Value="200"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="u_strings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="14"/>
+        <CursorPos X="72" Y="27"/>
+        <FoldState Value=" T3i90TR"/>
+        <UsageCount Value="445"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="copenfilelist.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="cOpenFileList"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="40"/>
+        <CursorPos Y="61"/>
+        <FoldState Value=" T7HIK T3i3055 T6iI211="/>
+        <UsageCount Value="441"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="u_utilities.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="45" Y="55"/>
+        <UsageCount Value="439"/>
+        <Loaded Value="True"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="u_encodings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="40" Y="11"/>
+        <FoldState Value=" TCXF3 T3iJ089 T6jH214'"/>
+        <UsageCount Value="318"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\lazarus\fpc\3.2.0\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="510"/>
+        <CursorPos X="8" Y="539"/>
+        <UsageCount Value="154"/>
+        <Loaded Value="True"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="freetype.pas"/>
+        <UnitName Value="FreeType"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="986"/>
+        <CursorPos X="15" Y="1005"/>
+        <UsageCount Value="7"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="C:\lazarus\components\lazutils\tttypes.pas"/>
+        <UnitName Value="TTTypes"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="7"/>
+      </Unit23>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="116" Column="26" TopLine="90"/>
+      </Position1>
+      <Position2>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="629" TopLine="591"/>
+      </Position2>
+      <Position3>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="581" Column="18" TopLine="561"/>
+      </Position3>
+      <Position4>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="582" TopLine="560"/>
+      </Position4>
+      <Position5>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="1219" Column="115" TopLine="773"/>
+      </Position5>
+      <Position6>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="116" Column="26" TopLine="100"/>
+      </Position6>
+      <Position7>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="811" Column="17" TopLine="794"/>
+      </Position7>
+      <Position8>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="948" Column="30" TopLine="938"/>
+      </Position8>
+      <Position9>
+        <Filename Value="symbol.pas"/>
+      </Position9>
+      <Position10>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="812" Column="49" TopLine="784"/>
+      </Position10>
+      <Position11>
+        <Filename Value="symbol.pas"/>
+      </Position11>
+      <Position12>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="812" Column="49" TopLine="784"/>
+      </Position12>
+      <Position13>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="973" Column="28" TopLine="942"/>
+      </Position13>
+      <Position14>
+        <Filename Value="symbol.pas"/>
+      </Position14>
+      <Position15>
+        <Filename Value="font.pas"/>
+        <Caret Line="710" Column="44" TopLine="692"/>
+      </Position15>
+      <Position16>
+        <Filename Value="font.pas"/>
+        <Caret Line="740" Column="57" TopLine="734"/>
+      </Position16>
+      <Position17>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="111" Column="26" TopLine="104"/>
+      </Position17>
+      <Position18>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="824" Column="41" TopLine="812"/>
+      </Position18>
+      <Position19>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="821" Column="46" TopLine="814"/>
+      </Position19>
+      <Position20>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="822" Column="54" TopLine="812"/>
+      </Position20>
+      <Position21>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="819" Column="95" TopLine="809"/>
+      </Position21>
+      <Position22>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="584" Column="17" TopLine="575"/>
+      </Position22>
+      <Position23>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="823" Column="7" TopLine="805"/>
+      </Position23>
+      <Position24>
+        <Filename Value="font.pas"/>
+        <Caret Line="721" Column="27" TopLine="712"/>
+      </Position24>
+      <Position25>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="813" Column="12" TopLine="806"/>
+      </Position25>
+      <Position26>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="835" Column="53" TopLine="825"/>
+      </Position26>
+      <Position27>
+        <Filename Value="symbol.pas"/>
+        <Caret Line="823" Column="50" TopLine="820"/>
+      </Position27>
+      <Position28>
+        <Filename Value="font.pas"/>
+        <Caret Line="753" Column="17" TopLine="619"/>
+      </Position28>
+      <Position29>
+        <Filename Value="fm_gen.pas"/>
+        <Caret Line="180" Column="36" TopLine="162"/>
+      </Position29>
+      <Position30>
+        <Filename Value="_matrixFont.lpr"/>
+        <Caret Line="33"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
